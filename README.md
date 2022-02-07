@@ -45,10 +45,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://znogoud-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/znogoud/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/znogoud/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:znogoud3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://znogoud-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://znogoud-portfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/znogoud/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Egor%20Sorokin%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/znogoud/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-znogoud-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:znogoud3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-znogoud3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [ZnoGouDj](https://github.com/ZnoGouDj)
