@@ -15,6 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -28,7 +29,7 @@
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-- 🚩&nbsp;
+- 🚩 &nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Microsoft Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
   ![YouTrack](https://img.shields.io/badge/-YouTrack-333333?style=flat&logo=jetbrains)
