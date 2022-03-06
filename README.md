@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ✅ &nbsp; [RSSchool student](https://app.rs.school/certificate/sqp8jn58).
+- ✅ &nbsp; [RSSchool student](https://app.rs.school/certificate/sqp8jn58)
 - 🎓 &nbsp; Print technologies and media communications Bachelor's degree 
-- 🇬🇧 &nbsp; English B2.
+- 🇬🇧 &nbsp; English B2
 - 🥁 &nbsp; Fond of playing drums!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
