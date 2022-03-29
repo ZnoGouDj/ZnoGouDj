@@ -36,7 +36,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ZnoGouDj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZnoGouDj&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZnoGouDj&theme=buefy&layout=compact" />
 </a>
