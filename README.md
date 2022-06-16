@@ -52,5 +52,3 @@
 <a href="https://www.instagram.com/znogoud/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-znogoud-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:znogoud3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-znogoud3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [ZnoGouDj](https://github.com/ZnoGouDj)
