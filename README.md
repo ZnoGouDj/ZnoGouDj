@@ -27,9 +27,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 - 🚩 &nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Microsoft Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
