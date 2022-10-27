@@ -16,6 +16,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=563D7C)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=563D7C)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
