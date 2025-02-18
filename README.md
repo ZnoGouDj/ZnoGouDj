@@ -19,6 +19,7 @@
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=563D7C)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![MobX](https://img.shields.io/badge/-Mobx-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -29,6 +30,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🚩 &nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Microsoft Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
