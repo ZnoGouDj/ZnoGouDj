@@ -48,8 +48,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://znogoud.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.znogoud.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/znogoud/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Egor%20Sorokin%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/znogoud/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-znogoud-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:znogoud3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-znogoud3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
